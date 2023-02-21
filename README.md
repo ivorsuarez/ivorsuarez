@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**ivorsuarez/ivorsuarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Some info about me :
 
 - 🔭 I’m currently working on Data Analysis and Data Science Projects
